@@ -11,6 +11,7 @@ import React from 'react'
     )
 } */
 
+//Class components
 class About extends React.Component{
   constructor(){
     super();
